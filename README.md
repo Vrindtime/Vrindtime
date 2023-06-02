@@ -2,6 +2,8 @@
 
 I'm a 3rd year BCA student passionate about coding and technology. I got into computer science during 11th grade when I started working with Python and building projects like calculators and quirky odd or even games, which sparked a deep interest in coding and motivated me to pursue BCA and enter the IT sector.Now, I'm eagerly preparing to make my mark in this ever-evolving field!
 
+---
+
 ## Coding Experience
 
 - Proficient in programming languages: Python, C, C++
@@ -12,6 +14,8 @@ I'm a 3rd year BCA student passionate about coding and technology. I got into co
 - Proficient in Figma for UI/UX design and prototyping
 - Experience with Flutter framework for cross-platform mobile app development
 - Applied skills to academic and personal coding projects
+
+---
 
 ## Skill
 
@@ -36,7 +40,7 @@ I'm a 3rd year BCA student passionate about coding and technology. I got into co
   <img src="https://pnghive.com/core/images/full/chat-gpt-logo-png-1680405922.png" alt="GPT" width="48" height="48" />
 </div>
 
-
+---
 
 ## GitHub Stats
 
