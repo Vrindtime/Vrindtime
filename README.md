@@ -14,24 +14,28 @@ I'm a 3rd year BCA student passionate about coding and technology. I got into co
 - Applied skills to academic and personal coding projects
 
 ## Skill
-- C: :desktop_computer:
-- C++: :computer:
-- Python: :snake:
-- Java: :coffee:
-- JavaScript: :javascript:
-- HTML: :html:
-- CSS: :css:
-- Bootstrap: :bootstrap:
-- PHP: :php:
-- SQL: :database:
-- Dart: :dart:
-- Flutter: :flutter:
-- Firebase: :firebase:
-- Adobe Premiere: :adobe_premiere:
-- Adobe After Effects: :adobe_after_effects:
-- Git: :git:
-- Linux: :linux:
-- GPT: :gpt:
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/cpp.png" alt="C++" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="48" height="48" />
+  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Adobe Premiere" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="Adobe After Effects" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/gpt-3.png" alt="GPT" width="48" height="48" />
+</div>
+
 
 
 ## GitHub Stats
