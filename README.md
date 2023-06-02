@@ -33,7 +33,7 @@ I'm a 3rd year BCA student passionate about coding and technology. I got into co
   <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="Adobe After Effects" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="48" height="48" />
-  <img src="https://freebiehive.com/wp-content/uploads/2023/02/ChatGPT-Logo-PNG-1-758x473.jpg" alt="GPT" width="48" height="48" />
+  <img src="https://pnghive.com/core/images/full/chat-gpt-logo-png-1680405922.png" alt="GPT" width="48" height="48" />
 </div>
 
 
