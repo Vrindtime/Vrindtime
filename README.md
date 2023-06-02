@@ -35,6 +35,7 @@ I'm a 3rd year BCA student passionate about coding and technology. I got into co
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Adobe Premiere" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="Adobe After Effects" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="48" height="48" />
   <img src="https://pnghive.com/core/images/full/chat-gpt-logo-png-1680405922.png" alt="GPT" width="48" height="48" />
