@@ -17,7 +17,7 @@ I'm a 3rd year BCA student passionate about coding and technology. I got into co
 
 <div style="display: flex; justify-content: center;">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/cpp.png" alt="C++" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48" />
