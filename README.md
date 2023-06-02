@@ -13,6 +13,27 @@ I'm a 3rd year BCA student passionate about coding and technology. I got into co
 - Experience with Flutter framework for cross-platform mobile app development
 - Applied skills to academic and personal coding projects
 
+## Skill
+- C: :desktop_computer:
+- C++: :computer:
+- Python: :snake:
+- Java: :coffee:
+- JavaScript: :javascript:
+- HTML: :html:
+- CSS: :css:
+- Bootstrap: :bootstrap:
+- PHP: :php:
+- SQL: :database:
+- Dart: :dart:
+- Flutter: :flutter:
+- Firebase: :firebase:
+- Adobe Premiere: :adobe_premiere:
+- Adobe After Effects: :adobe_after_effects:
+- Git: :git:
+- Linux: :linux:
+- GPT: :gpt:
+
+
 ## GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vrindtime&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
