@@ -6,8 +6,7 @@
     </p>
   </div>
   <div>
-    <iframe src="https://giphy.com/embed/WTjXuYA2y4o3UZly3W" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-    <p><a href="https://giphy.com/gifs/Venturit-WTjXuYA2y4o3UZly3W">via GIPHY</a></p>
+    ![GIF](https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif)
   </div>
 </div>
 
