@@ -1,13 +1,16 @@
-<div>
-    <div>
-        # About Me! 👋
-
-        I'm a 3rd year BCA student passionate about coding and technology. I got into computer science during 11th grade when I started working with Python and building projects like calculators and quirky odd or even games, which sparked a deep interest in coding and motivated me to pursue BCA and enter the IT sector.Now, I'm eagerly preparing to make my mark in this ever-evolving field!
-    </div>
-    <div>
-        <iframe src="https://giphy.com/embed/WTjXuYA2y4o3UZly3W" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Venturit-WTjXuYA2y4o3UZly3W">via GIPHY</a></p>
-    </div>
+<div style="display: flex;">
+  <div>
+    <h1>About Me! 👋</h1>
+    <p>
+      I'm a 3rd year BCA student passionate about coding and technology. I got into computer science during 11th grade when I started working with Python and building projects like calculators and quirky odd or even games, which sparked a deep interest in coding and motivated me to pursue BCA and enter the IT sector. Now, I'm eagerly preparing to make my mark in this ever-evolving field!
+    </p>
+  </div>
+  <div>
+    <iframe src="https://giphy.com/embed/WTjXuYA2y4o3UZly3W" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <p><a href="https://giphy.com/gifs/Venturit-WTjXuYA2y4o3UZly3W">via GIPHY</a></p>
+  </div>
 </div>
+
 ---
 
 ## Coding Experience
