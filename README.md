@@ -46,8 +46,7 @@ I'm a 3rd year BCA student passionate about coding and technology. I got into co
 ---
 
 ## GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vrindtime&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vrindtimea&show_icons=true&bg_color=00000000)
 
 <!--
 **Vrindtime/Vrindtime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
