@@ -41,6 +41,7 @@ I'm a 3rd year BCA student passionate about coding and technology. I got into co
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="48" height="48" />
+  <img width="48" height="48" src="https://img.icons8.com/badges/48/000000/jquery.png" alt="jquery"/>
 </div>
 
 ---
