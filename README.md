@@ -11,7 +11,7 @@ I'm a 3rd year BCA student passionate about coding and technology. I got into co
 
 - Proficient in programming languages: Python, C, C++
 - Strong understanding of data structures and algorithms
-- Experience with web technologies: HTML, CSS, JavaScript, PHP
+- Experience with web technologies: HTML, CSS, JavaScript,EJS,Node,Express,PHP,BootStrap
 - Familiarity with MySQL, a popular relational database management system
 - Knowledge of Bootstrap framework for responsive web design
 - Proficient in Figma for UI/UX design and prototyping
@@ -42,6 +42,9 @@ I'm a 3rd year BCA student passionate about coding and technology. I got into co
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="48" height="48" />
   <img width="48" height="48" src="https://img.icons8.com/badges/48/000000/jquery.png" alt="jquery"/>
+  <img width="48" height="48" src="https://img.icons8.com/windows/32/node-js.png" alt="node-js"/>
+  <img width="48" height="48" src="https://img.icons8.com/ios/48/express-js.png" alt="express-js"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/clr_ejs_1.png" alt="clr_ejs_1"/>
 </div>
 
 ---
