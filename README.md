@@ -1,6 +1,6 @@
 # About Me! 👋
 
-I'm a 3rd year BCA student passionate about coding and technology. I got into computer science during 11th grade when I started working with Python and building projects like calculators and quirky odd or even games, which sparked a deep interest in coding and motivated me to pursue BCA and enter the IT sector. Now, I'm eagerly preparing to make my mark in this ever-evolving field!
+I'm a Final year BCA student passionate about coding and technology. I got into computer science during 11th grade when I started working with Python and building projects like calculators and quirky odd or even games, which sparked a deep interest in coding and motivated me to pursue BCA and enter the IT sector. Now, I'm eagerly preparing to make my mark in this ever-evolving field!
 
 
 >
