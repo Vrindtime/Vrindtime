@@ -1,4 +1,4 @@
-# About Me! 👋
+# Hey! 👋
 
 I'm a Software Developer passionate about coding and technology. I got into computer science during 11th grade when I started working with Python and building projects like calculators and quirky odd or even games, which sparked a deep interest in coding and motivated me to pursue BCA and enter the IT sector. Now, I'm eagerly preparing to make my mark in this ever-evolving field!
 
@@ -9,18 +9,18 @@ I'm a Software Developer passionate about coding and technology. I got into comp
 
 ## Coding Experience
 
-- Proficient in programming languages: Python, C, C++
+- Experience with Flutter framework for cross-platform mobile app development
+- Experience with Backend services such as Firebase
+- Experience in programming languages: Python, C++ , Dart
 - Strong understanding of data structures and algorithms
 - Experience with web technologies: HTML, CSS, JavaScript,EJS,Node,Express,PHP,BootStrap
 - Familiarity with MySQL, a popular relational database management system
 - Knowledge of Bootstrap framework for responsive web design
 - Proficient in Figma for UI/UX design and prototyping
-- Experience with Flutter framework for cross-platform mobile app development
-- Applied skills to academic and personal coding projects
 
 ---
 
-## Skill
+## Skills In
 
 <div style="display: flex; justify-content: center;">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48" />
