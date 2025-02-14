@@ -37,19 +37,20 @@ I'm a Software Developer passionate about coding and technology. I got into comp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="MySQL" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/vercel.png" alt="Vercel" width="48" height="48" />
+  <img src="https://img.icons8.com/windows/48/000000/vercel.png" alt="Vercel" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/hostinger.png" alt="Hostinger" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48" />
-  <img src="https://img.icons8.com/material-outlined/48/github.png" alt="GitHub" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/github-desktop.png" alt="GitHub Desktop" width="48" height="48" />
+  <img src="https://img.icons8.com/ios-filled/48/000000/github.png" alt="GitHub" width="48" height="48" />
+  <img src="https://img.icons8.com/fluency/48/000000/github-desktop.png" alt="GitHub Desktop" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/filezilla.png" alt="FileZilla" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/mysql-workbench.png" alt="MySQL Workbench" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/beekeeper.png" alt="Beekeeper Studio" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/figma.png" alt="Figma" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/diagrams.png" alt="dbdiagram.io" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/spline.png" alt="Spline" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/adobe-premiere-pro.png" alt="Adobe Premiere Pro" width="48" height="48" />
 </div>
+
 
 
 ---
