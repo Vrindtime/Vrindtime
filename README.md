@@ -22,30 +22,35 @@ I'm a Software Developer passionate about coding and technology. I got into comp
 
 ## Skills In
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48" />
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48" />
+  <img src="https://img.icons8.com/badges/48/000000/jquery.png" alt="jQuery" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="48" height="48" />
-  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="48" height="48" />
+  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Adobe Premiere" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="Adobe After Effects" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="MySQL" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/vercel.png" alt="Vercel" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/hostinger.png" alt="Hostinger" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="48" height="48" />
-  <img width="48" height="48" src="https://img.icons8.com/badges/48/000000/jquery.png" alt="jquery"/>
-  <img width="48" height="48" src="https://img.icons8.com/windows/32/node-js.png" alt="node-js"/>
-  <img width="48" height="48" src="https://img.icons8.com/ios/48/express-js.png" alt="express-js"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/clr_ejs_1.png" alt="clr_ejs_1"/>
+  <img src="https://img.icons8.com/material-outlined/48/github.png" alt="GitHub" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/github-desktop.png" alt="GitHub Desktop" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/filezilla.png" alt="FileZilla" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/mysql-workbench.png" alt="MySQL Workbench" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/figma.png" alt="Figma" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/diagrams.png" alt="dbdiagram.io" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/spline.png" alt="Spline" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/adobe-premiere-pro.png" alt="Adobe Premiere Pro" width="48" height="48" />
 </div>
+
 
 ---
 
