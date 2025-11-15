@@ -1,67 +1,110 @@
-# Hey! 👋
+# 👋 Hey, I'm Ashvin
 
-I'm a Software Developer passionate about coding and technology. I got into computer science during 11th grade when I started working with Python and building projects like calculators and quirky odd or even games, which sparked a deep interest in coding and motivated me to pursue BCA and enter the IT sector. Now, I'm eagerly preparing to make my mark in this ever-evolving field!
+Junior IT professional trying to survive the cloud, build things that don’t crash, and occasionally deploy entire systems on way-too-small VPS machines. Started coding back in 11th grade with Python toys like calculators and odd/even games, and… well, here we are.
 
-
->
-
----
-
-## Coding Experience
-
-- Experience with Flutter framework for cross-platform mobile app development
-- Experience with Backend services such as Firebase
-- Experience in programming languages: Python, C++ , Dart
-- Strong understanding of data structures and algorithms
-- Experience with web technologies: HTML, CSS, JavaScript,EJS,Node,Express,PHP,BootStrap
-- Familiarity with MySQL, a popular relational database management system
-- Knowledge of Bootstrap framework for responsive web design
-- Proficient in Figma for UI/UX design and prototyping
+These days I'm deep into cloud, infrastructure, mobile apps, backend APIs, and running full-stack projects end to end. Also a freelance developer, part-time tech fixer, and full-time tinkerer.
 
 ---
 
-## Skills In
+## 🚀 What I Actually Do
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48" />
-  <img src="https://img.icons8.com/badges/48/000000/jquery.png" alt="jQuery" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="48" height="48" />
-  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="MySQL" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48" />
-  <img src="https://img.icons8.com/ios-filled/48/000000/github.png" alt="GitHub" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/filezilla.png" alt="FileZilla" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/figma.png" alt="Figma" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/adobe-premiere-pro.png" alt="Adobe Premiere Pro" width="48" height="48" />
-</div>
-
-
+- Build web, mobile, and backend apps (Flutter, Django, Appwrite, Firebase)
+- Deploy on AWS, Vercel, Render, Dokploy, and VPS setups
+- Configure servers, domains, SSL, databases, Docker, CI/CD pipelines
+- Architect and deliver ERP, CRM, and SaaS-style systems
+- Write documentation that saves future-me from suffering
 
 ---
 
-## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vrindtime&show_icons=true&bg_color=00000000)
+## 🧠 Skills & Tools
 
-<!--
-**Vrindtime/Vrindtime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ Cloud & DevOps
+- **AWS:** IAM, Lambda, S3, CloudFront, CloudWatch, API Gateway, ECR  
+- **DevOps:** Docker, GitHub Actions, CI/CD  
+- **Deployments:** VPS, Vercel, Render, Dokploy
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ Backend & Frameworks
+- **Python:** Django, Django Ninja  
+- **Backend Services:** Firebase, Appwrite  
+- **JavaScript:** Node.js, Express
+
+---
+
+### 📱 Frontend & Mobile
+- **Mobile:** Flutter  
+- **Web:** HTML, CSS, JavaScript  
+- **UI Frameworks:** Bootstrap, Tailwind  
+- **CMS:** WordPress
+
+---
+
+### 🗄️ Databases
+- MySQL  
+- SQLite  
+- NoSQL / Appwrite DB / Firebase
+
+---
+
+### 🛠️ Other Tools
+- Git, GitHub Desktop  
+- FileZilla, Beekeeper Studio  
+- Figma, Canva  
+- System administration & troubleshooting
+
+---
+
+## 📌 Highlight Projects
+
+### **NoteScribe** – FOSS Note-to-Speech Tool  
+- Built using a Python ONNX model (Piper-TTS)  
+- Backend containerized with Docker and deployed using AWS Lambda, S3, and ECR  
+- Frontend on Vercel with near-zero running cost  
+🔗 https://ns.vrindtime.com/
+
+---
+
+### **Stackle** – Healthcare Recruitment Platform  
+- Django Ninja API with JWT authentication and file uploads  
+- Aadhaar KYC integration, deployed on Render + R2 + MySQL, later migrated to VPS with Docker  
+- Flutter Web Admin Dashboard  
+🔗 https://stackle.in/
+
+---
+
+### **Tellus ERP** – Earth-Moving & Fleet Management System  
+- Flutter app + Appwrite backend  
+- RBAC, automation, and real-time updates  
+- Full ERP including CRM, billing, accounting, reporting  
+- Published on Google Play  
+🔗 https://www.tellusgroup.in/
+
+---
+
+### **ATS System** – AI Resume Screening Platform  
+- Django backend integrated with AI Parser API  
+- Automated scoring, filtering, and assessments  
+🔗 https://ats.vrindtime.com/
+
+---
+
+## 📊 GitHub Stats
+![Ashvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vrindtime&show_icons=true&bg_color=00000000)
+
+---
+
+## 🎓 Education
+
+**Master of Computer Applications (Ongoing)**  
+Lovely Professional University  
+
+**Bachelor of Computer Applications – 8.01 GPA**  
+MG University
+
+---
+
+## 🏅 Certificates
+- State Level Software Project Contest – 2nd Prize (Technotica 2023)  
+- Website Design Bootcamp – Kodacy  
+- Community Responder Certificate – GDC
